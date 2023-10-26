@@ -106,7 +106,7 @@ social:
 #    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-  link: https://twitter.com/Dr_A_Stein
+    link: https://twitter.com/Dr_A_Stein
     label: Follow me on Twitter
     display:
       header: true
