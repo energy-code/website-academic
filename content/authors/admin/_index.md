@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adam Stein, PhD
+title: Adam Stein
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
